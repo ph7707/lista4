@@ -63,7 +63,6 @@ plt.show()
 - Apresente a df para checar se tudo deu certo
 """
 
-!pip install ipeadatapy
 
 import ipeadatapy as ip
 
